@@ -1,0 +1,13 @@
+﻿  main.c
+D:\cvisual\ehb208\main.c(164,17): warning C4047: '=': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+D:\cvisual\ehb208\main.c(176,16): warning C4244: '+=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+D:\cvisual\ehb208\main.c(229,44): warning C4047: 'işlev': 'char *', yöneltme düzeyi sayısı bakımından 'char (*)[13]' ile aynı değil
+D:\cvisual\ehb208\main.c(229,29): warning C4024: 'getrecord': 2 biçimsel ve gerçek parametresi için farklı türler
+D:\cvisual\ehb208\main.c(230,39): warning C4047: 'işlev': 'char *', yöneltme düzeyi sayısı bakımından 'char (*)[8]' ile aynı değil
+D:\cvisual\ehb208\main.c(230,29): warning C4024: 'getrecord': 2 biçimsel ve gerçek parametresi için farklı türler
+D:\cvisual\ehb208\main.c(231,45): warning C4047: 'işlev': 'char *', yöneltme düzeyi sayısı bakımından 'char (*)[14]' ile aynı değil
+D:\cvisual\ehb208\main.c(231,29): warning C4024: 'getrecord': 2 biçimsel ve gerçek parametresi için farklı türler
+D:\cvisual\ehb208\main.c(232,45): warning C4047: 'işlev': 'char *', yöneltme düzeyi sayısı bakımından 'char (*)[14]' ile aynı değil
+D:\cvisual\ehb208\main.c(232,29): warning C4024: 'getrecord': 2 biçimsel ve gerçek parametresi için farklı türler
+D:\cvisual\ehb208\main.c(224): warning C4716: 'delrecord' : bir değer döndürmelidir
+  ehb208.vcxproj -> D:\cvisual\ehb208\x64\Debug\ehb208.exe
